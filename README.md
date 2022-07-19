@@ -1,6 +1,6 @@
 # ✌ Olá, sou o Winícius!
 
-- Tenho 20 anos, sou DEV e atualmente moro em **Itatiba, São Paulo**.
+- Tenho 20 anos, sou Estudante e atualmente moro em **Itatiba, São Paulo**.
 - Estudo **ADS** na [USF](https://www.usf.edu.br/)
 - Minha principal linguagem é JavaScript!
  
