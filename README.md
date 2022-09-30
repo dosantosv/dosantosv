@@ -1,4 +1,4 @@
-# ✌ Olá, sou o Winícius!
+# ✌ Olá, sou o Vinícius!
 
 - Tenho 20 anos, sou Estudante e atualmente moro em **Itatiba, São Paulo**.
 - Estudo **ADS** na [USF](https://www.usf.edu.br/)
