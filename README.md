@@ -11,5 +11,5 @@
 - 🐦 **[Twitter](https://twitter.com/dosantosv_)** @dosantosv_
 - 💼 **[LinkedIn](https://www.linkedin.com/in/win%C3%ADcius-ferreira-dos-santos-a58952214/)** @dosantosv_
 - 📸 **[Instagram](https://www.instagram.com/dosantosv_/)** @dosantosv_
-- 🎮 **Discord** vnnnn#4138
+- 🎮 **Discord** vinicius santos #1267
 
