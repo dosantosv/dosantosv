@@ -1,8 +1,8 @@
 # ✌ Olá, sou o Vinícius!
 
-- Tenho 20 anos, sou Estudante e atualmente moro em **Itatiba, São Paulo**.
+- Tenho 21 anos, sou Estudante e atualmente moro em **Itatiba, São Paulo**.
 - Estudo **ADS** na [USF](https://www.usf.edu.br/)
-- Minha principal linguagem é JavaScript!
+- Minha principal linguagem é C#!
  
 ## Siga-me
 
