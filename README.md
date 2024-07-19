@@ -1,7 +1,6 @@
 # ✌ Olá, sou o Vinícius!
 
 - Tenho 22 anos, atualmente moro em **Itatiba, São Paulo**.
-- Estudo **ADS** na [USF](https://www.usf.edu.br/)
 - Minha principal linguagem é C#!
  
 ## Siga-me
