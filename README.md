@@ -1,6 +1,6 @@
 # ✌ Olá, sou o Vinícius!
 
-- Tenho 22 anos, sou Desenvolvedor Mobile e atualmente moro em **Itatiba, São Paulo**.
+- Tenho 24 anos, sou Desenvolvedor Mobile e atualmente moro em **Itatiba, São Paulo**.
 - Minha principal linguagem é Kotlin!
  
 ## Siga-me
